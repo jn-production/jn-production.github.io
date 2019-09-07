@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://woodyjackson.github.io/categories/</loc>
+    <loc>https://jn-production.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://woodyjackson.github.io/</loc>
+    <loc>https://jn-production.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://woodyjackson.github.io/tags/</loc>
+    <loc>https://jn-production.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
