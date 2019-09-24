@@ -60,12 +60,12 @@
   </url>
   
   <url>
-    <loc>https://jn-production.github.io/post/post1/</loc>
+    <loc>https://jn-production.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jn-production.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://jn-production.github.io/post/post1/</loc>
   </url>
   
 </urlset>
