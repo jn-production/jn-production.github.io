@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JN-PRODUCTION</title>
-    <link>https://jn-production.github.io/categories/</link>
+    <link>http://woodyjackson.github.io/categories/</link>
     <description>Recent content in Categories on JN-PRODUCTION</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://jn-production.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://woodyjackson.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
